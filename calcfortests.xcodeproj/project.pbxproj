@@ -16,6 +16,7 @@
 		951985B6278DF7D7002187A8 /* calcfortestsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951985B5278DF7D7002187A8 /* calcfortestsTests.swift */; };
 		951985C0278DF7D7002187A8 /* calcfortestsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951985BF278DF7D7002187A8 /* calcfortestsUITests.swift */; };
 		951985C2278DF7D7002187A8 /* calcfortestsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951985C1278DF7D7002187A8 /* calcfortestsUITestsLaunchTests.swift */; };
+		951985CF278DF7F8002187A8 /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951985CE278DF7F8002187A8 /* Calculator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		951985BB278DF7D7002187A8 /* calcfortestsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = calcfortestsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		951985BF278DF7D7002187A8 /* calcfortestsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calcfortestsUITests.swift; sourceTree = "<group>"; };
 		951985C1278DF7D7002187A8 /* calcfortestsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calcfortestsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		951985CE278DF7F8002187A8 /* Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				951985A7278DF7D7002187A8 /* Assets.xcassets */,
 				951985A9278DF7D7002187A8 /* LaunchScreen.storyboard */,
 				951985AC278DF7D7002187A8 /* Info.plist */,
+				951985CE278DF7F8002187A8 /* Calculator.swift */,
 			);
 			path = calcfortests;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				951985A3278DF7D1002187A8 /* ViewController.swift in Sources */,
+				951985CF278DF7F8002187A8 /* Calculator.swift in Sources */,
 				9519859F278DF7D1002187A8 /* AppDelegate.swift in Sources */,
 				951985A1278DF7D1002187A8 /* SceneDelegate.swift in Sources */,
 			);
